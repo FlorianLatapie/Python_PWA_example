@@ -1,7 +1,7 @@
 
-# Python server for PWA (Progressive Web App) example
+# Python server for PWA example
 
-This is a simple example of a Python server for a PWA (Progressive Web App).
+This is a simple example of a Python server for a Progressive Web App.
 
 App icon from [Flaticon](https://www.flaticon.com/fr/icones-gratuites/application) by [Freepik](https://www.flaticon.com/fr/auteurs/freepik).
 
